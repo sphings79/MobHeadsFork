@@ -1,0 +1,22 @@
+MobHeadsFork 1.18
+
+Texture update
+Zombie_Librarian_Villager
+
+Fixed do not drop on unemployed zombie villager
+Zombie_Nitwit_Villager
+
+New Heads:
+Zombie_Villager
+Zombie_Armorer_Villager
+Zombie_Cartographer_Villager
+Zombie_Fisherman_Villager
+Zombie_Fletcher_Villager
+Zombie_Leatherworker_Villager
+Zombie_Mason_Villager
+Zombie_Shepherd_Villager
+Zombie_Weaponsmith_Villager
+Villager_Nitwit
+Villager_Leatherworker
+Villager_Mason
+Villager_Toolsmith
